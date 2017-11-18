@@ -1,0 +1,6 @@
+||   Human Player   || : de  [a2]  -->  [24]  
+ 
+|| Stupid AI Player || : de  [f7]  -->  [75]  
+ 
+||   Human Player   || : de  [c2]  -->  [23]  
+ 
